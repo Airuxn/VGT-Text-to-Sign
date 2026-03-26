@@ -14,13 +14,17 @@ const noVideoEl = document.getElementById('noVideo');
 const overlayCanvas = document.getElementById('avatarOverlay');
 const videoWrap = document.querySelector('.video-wrap');
 const overlay = new FullBodyOverlay(overlayCanvas);
+const debugHud = document.getElementById('debugHud');
+const debugModeEl = document.getElementById('debugMode');
 
 const videoA = document.getElementById('signVideoA');
 const videoB = document.getElementById('signVideoB');
 const player = new SmoothVideoPlayer(videoA, videoB);
 
+// Resize once per video element after first metadata load; repeated per-segment metadata
+// events can cause subtle canvas-size drift on some browsers.
 for (const v of [videoA, videoB]) {
-  v.addEventListener('loadedmetadata', () => overlay.resize());
+  v.addEventListener('loadedmetadata', () => overlay.resize(), { once: true });
 }
 
 let lastResult = null;
@@ -29,6 +33,10 @@ let overlayRaf = null;
 let lastSegIdx = null;
 let overlayLoopToken = 0;
 let playRequestId = 0;
+let activeLoopCount = 0;
+let lastFpsTs = performance.now();
+let fpsFrames = 0;
+let fpsValue = 0;
 
 function toNorm01(p) {
   if (!p || typeof p[0] !== 'number' || typeof p[1] !== 'number') return null;
@@ -56,10 +64,9 @@ function buildGlobalFitFromPoses(poseBundles) {
     if (!Array.isArray(kfs) || !kfs.length) continue;
     for (let i = 0; i < kfs.length; i += 3) {
       const k = kfs[i];
+      // Keep transform stable from body/face anchors only; hand spread is too volatile.
       pushPoints(k?.pose);
       pushPoints(k?.face);
-      pushPoints(k?.left);
-      pushPoints(k?.right);
     }
   }
 
@@ -88,11 +95,13 @@ function stopOverlayLoop() {
   overlayLoopToken += 1;
   if (overlayRaf) cancelAnimationFrame(overlayRaf);
   overlayRaf = null;
+  activeLoopCount = Math.max(0, activeLoopCount - 1);
 }
 
 function startOverlayLoop() {
   stopOverlayLoop();
   const token = overlayLoopToken;
+  activeLoopCount += 1;
   lastSegIdx = null;
 
   const tick = () => {
@@ -114,6 +123,31 @@ function startOverlayLoop() {
     overlay.setTimeMs((activeVid.currentTime || 0) * 1000);
     // Always render: clears canvas when there is no pose data (fixes blank stage in skeleton-only mode).
     overlay.render();
+
+    // Runtime instrumentation to catch replay loop duplication bugs.
+    fpsFrames += 1;
+    const now = performance.now();
+    if (now - lastFpsTs >= 1000) {
+      fpsValue = Math.round((fpsFrames * 1000) / (now - lastFpsTs));
+      fpsFrames = 0;
+      lastFpsTs = now;
+    }
+    if (debugModeEl?.checked && debugHud) {
+      const t = (activeVid.currentTime || 0).toFixed(2);
+      const dbg = overlay.getDebugInfo ? overlay.getDebugInfo() : null;
+      debugHud.classList.add('show');
+      debugHud.textContent =
+`loopToken=${overlayLoopToken}
+activeLoops=${activeLoopCount}
+segIdx=${segIdx}
+videoTime=${t}s
+renderFps=${fpsValue}
+playReq=${playRequestId}
+canvasPx=${dbg ? `${dbg.canvasW}x${dbg.canvasH}` : 'n/a'}
+dpr=${dbg ? dbg.dpr.toFixed(2) : 'n/a'}
+fitScale=${dbg ? dbg.fitScale.toFixed(3) : 'n/a'}
+zoom=${dbg ? dbg.zoom.toFixed(2) : 'n/a'}`;
+    }
   };
 
   overlayRaf = requestAnimationFrame(tick);
@@ -228,6 +262,19 @@ document.getElementById('replay').addEventListener('click', () => {
 });
 
 document.getElementById('speed').addEventListener('input', (e) => player.setSpeed(Number(e.target.value)));
+document.getElementById('avatarZoom').addEventListener('input', (e) => {
+  overlay.setZoom(Number(e.target.value));
+});
+overlay.setZoom(Number(document.getElementById('avatarZoom').value || 1));
+
+debugModeEl?.addEventListener('change', () => {
+  if (!debugHud) return;
+  if (debugModeEl.checked) {
+    debugHud.classList.add('show');
+  } else {
+    debugHud.classList.remove('show');
+  }
+});
 
 function syncDictionaryVideoVisibility() {
   const show = document.getElementById('showDictionaryVideo');

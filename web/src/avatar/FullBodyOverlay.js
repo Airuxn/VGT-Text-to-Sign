@@ -220,6 +220,8 @@ export class FullBodyOverlay {
     this.tMs = 0;
     this.videoEl = null;
     this.globalFitNorm = null;
+    this.zoomFactor = 1;
+    this._lastDebug = { fitScale: 1, dpr: window.devicePixelRatio || 1 };
     // Fixed mapping to avoid any replay/segment growth drift.
     this.fitNorm = (x01, y01) => ({ x01, y01 });
     this._resize = this._resize.bind(this);
@@ -279,6 +281,22 @@ export class FullBodyOverlay {
     this.globalFitNorm = typeof transformFn === 'function' ? transformFn : null;
   }
 
+  setZoom(factor) {
+    const z = Number(factor);
+    this.zoomFactor = Number.isFinite(z) ? Math.max(0.8, Math.min(1.4, z)) : 1;
+  }
+
+  getDebugInfo() {
+    const dpr = window.devicePixelRatio || 1;
+    return {
+      canvasW: this.canvas.width,
+      canvasH: this.canvas.height,
+      dpr,
+      zoom: this.zoomFactor,
+      fitScale: this._lastDebug?.fitScale ?? 1,
+    };
+  }
+
   setTimeMs(tMs) {
     this.tMs = tMs;
   }
@@ -299,7 +317,16 @@ export class FullBodyOverlay {
     const poseFrame = interpAtTime(this.bundle.keyframes, this.tMs);
     if (!poseFrame) return;
 
-    const fitNorm = this.globalFitNorm || this.fitNorm || ((x01, y01) => ({ x01, y01 }));
+    const baseFit = this.globalFitNorm || this.fitNorm || ((x01, y01) => ({ x01, y01 }));
+    const fitNorm = (x01, y01) => {
+      const p = baseFit(x01, y01);
+      const z = this.zoomFactor || 1;
+      this._lastDebug.fitScale = z;
+      return {
+        x01: 0.5 + (p.x01 - 0.5) * z,
+        y01: 0.5 + (p.y01 - 0.5) * z,
+      };
+    };
 
     const norm01ToCanvasPx = (x01, y01) => {
       const vr = this.videoEl && getObjectFitContainRect(this.videoEl);
