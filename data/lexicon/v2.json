@@ -1,0 +1,32 @@
+[
+  {
+    "token":"ik","signId":"SELF","durationMs":600,"confidence":0.98,
+    "manual":{"left":{"pose":"rest","handshape":"B"},"right":{"pose":"self_point","handshape":"1"}},
+    "nonManual":{"mouth":"neutral","brows":"neutral","head":"neutral"},
+    "synonyms":["me"]
+  },
+  {
+    "token":"jou","signId":"YOU","durationMs":600,"confidence":0.97,
+    "manual":{"left":{"pose":"rest","handshape":"B"},"right":{"pose":"point_forward","handshape":"1"}},
+    "nonManual":{"mouth":"tight","brows":"raised","head":"forward"},
+    "synonyms":["u"]
+  },
+  {
+    "token":"help","signId":"HELP","durationMs":700,"confidence":0.95,
+    "manual":{"left":{"pose":"support_hand","handshape":"B"},"right":{"pose":"thumb_up_move","handshape":"A"}},
+    "nonManual":{"mouth":"open","brows":"raised","head":"forward"},
+    "synonyms":["helpen"]
+  },
+  {
+    "token":"morgen","signId":"TOMORROW","durationMs":700,"confidence":0.7,
+    "manual":{"left":{"pose":"rest","handshape":"B"},"right":{"pose":"cheek_forward","handshape":"B"}},
+    "nonManual":{"mouth":"flat","brows":"neutral","head":"neutral"},
+    "synonyms":["morgenvroeg"]
+  },
+  {
+    "token":"dankjewel","signId":"THANK_YOU","durationMs":650,"confidence":0.73,
+    "manual":{"left":{"pose":"rest","handshape":"B"},"right":{"pose":"chin_forward","handshape":"B"}},
+    "nonManual":{"mouth":"oo","brows":"soft","head":"forward"},
+    "synonyms":["bedankt"]
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "name": "vgt-converter-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js",
+    "test": "node --test",
+    "ingest:vgt": "node src/ingest/runIngest.js",
+    "transform:vgt": "node src/ingest/runIngest.js",
+    "review:promote": "node src/ingest/runReviewGate.js",
+    "dataset:diff": "node src/ops/datasetDiff.js",
+    "regression:check": "node --test",
+    "media:validate": "node src/ops/mediaValidate.js",
+    "media:prune": "MEDIA_PRUNE=1 node src/ops/mediaValidate.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "cors": "latest",
+    "express": "latest"
+  }
+}

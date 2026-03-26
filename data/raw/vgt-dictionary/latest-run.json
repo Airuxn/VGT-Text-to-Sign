@@ -1,0 +1,21 @@
+{
+  "ranAt": "2026-03-25T20:14:30.976Z",
+  "pages": 1,
+  "query": "*",
+  "queryMode": "expanded",
+  "maxQueries": 90,
+  "snapshots": [
+    "snapshot_*_api.json"
+  ],
+  "stats": {
+    "canonicalCount": 111,
+    "videoCount": 68,
+    "withMedia": 111
+  },
+  "media": {
+    "checked": 68,
+    "valid": 67,
+    "validRate": 0.9852941176470589,
+    "prunedCount": 1
+  }
+}

@@ -1,0 +1,7 @@
+[
+  {"token":"ik","signId":"SELF","gesture":{"left":"rest","right":"self_point"},"durationMs":600,"confidence":0.98,"synonyms":["me"]},
+  {"token":"jou","signId":"YOU","gesture":{"left":"rest","right":"point_forward"},"durationMs":600,"confidence":0.97,"synonyms":["u"]},
+  {"token":"help","signId":"HELP","gesture":{"left":"support_hand","right":"thumb_up_move"},"durationMs":700,"confidence":0.95,"synonyms":["helpen"]},
+  {"token":"morgen","signId":"TOMORROW","gesture":{"left":"rest","right":"cheek_forward"},"durationMs":700,"confidence":0.94,"synonyms":["morgenvroeg"]},
+  {"token":"dankjewel","signId":"THANK_YOU","gesture":{"left":"rest","right":"chin_forward"},"durationMs":650,"confidence":0.96,"synonyms":["bedankt"]}
+]

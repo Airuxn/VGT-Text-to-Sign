@@ -1,0 +1,10 @@
+{
+  "source": "https://woordenboek.vlaamsegebarentaal.be/search",
+  "target": "https://woordenboek.vlaamsegebarentaal.be/search?query=a&page=1",
+  "page": 1,
+  "query": "a",
+  "extractedAt": "2026-03-25T18:46:14.114Z",
+  "htmlFile": "snapshot_a_p1.html",
+  "count": 0,
+  "entries": []
+}

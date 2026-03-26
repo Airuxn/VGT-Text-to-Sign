@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VGT Text-to-Sign</title>
+  <style>
+    :root{--bg:#f1f5f9;--panel:#fff;--text:#0f172a;--muted:#475569;--accent:#2563eb;--warn:#b45309;--ok:#15803d}
+    *{box-sizing:border-box}
+    body{font-family:Inter,system-ui,Arial,sans-serif;max-width:1120px;margin:0 auto;padding:24px 14px;background:var(--bg);color:var(--text)}
+    h1{margin:0 0 8px} p{margin:0 0 12px;color:var(--muted)}
+    .panel{background:var(--panel);border:1px solid #dbe3ef;border-radius:12px;padding:14px;box-shadow:0 6px 24px #0f172a12}
+    .row{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0}
+    textarea{width:100%;height:96px;border:1px solid #cbd5e1;border-radius:10px;padding:10px;font-size:15px}
+    button{border:1px solid #cbd5e1;background:#fff;border-radius:8px;padding:6px 11px;cursor:pointer}
+    #convert{background:var(--accent);color:#fff;border-color:var(--accent)}
+    #status{font-size:14px;color:#334155;margin-top:6px}
+    .warn{color:var(--warn);font-size:14px;margin-top:4px}
+    .ok{color:var(--ok);font-size:14px;margin-top:4px}
+    #stage{margin-top:10px;display:grid;gap:10px;grid-template-columns:1fr 300px}
+    .video-wrap{background:#0f172a;border-radius:10px;overflow:hidden;border:1px solid #dbe3ef;position:relative;aspect-ratio:16/9;width:100%;max-height:min(72vh,520px)}
+    /* Landmarks are normalized to the frame; map overlay to the letterboxed video area (not the full box). */
+    .layered-video{width:100%;height:100%;display:block;vertical-align:middle;position:absolute;inset:0;object-fit:contain;object-position:center;background:#0f172a;opacity:0;transition:opacity 160ms linear}
+    .layered-video.active{opacity:1}
+    #avatarOverlay{position:absolute;inset:0;pointer-events:none;z-index:5}
+    .no-video{display:none;padding:24px;color:#94a3b8;text-align:center;font-size:14px}
+    .no-video.show{display:block}
+    .side{border:1px solid #dbe3ef;border-radius:10px;padding:10px;background:#f8fafc;font-size:14px}
+    .videoFallback{padding:10px;border-radius:8px;background:#fff7ed;border:1px solid #fed7aa;font-size:12px;word-break:break-all}
+    code{font-size:11px}
+    .avatar-only-label{font-size:14px;color:#334155;user-select:none}
+    /* Keep videos decoding/updating: opacity 0, not visibility:hidden (blank skeleton bug). */
+    .video-wrap.avatar-only .layered-video,
+    .video-wrap.avatar-only .layered-video.active{opacity:0 !important;visibility:visible}
+    @media (max-width:900px){#stage{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <h1>VGT Text-to-Sign</h1>
+  <p>Default view is a <strong>full-body overlay</strong> (cyan body, yellow face, blue/pink hands). After an app update, press <strong>Play</strong> once so the server recomputes poses (new cache key); otherwise you may only see hands from old cached data. Turn on <em>Toon dictionaryvideo</em> for the raw clip.</p>
+  <div class="panel">
+    <textarea id="input">ik help jou morgen</textarea>
+    <div class="row">
+      <button id="convert">Convert</button>
+      <button id="play">Play</button>
+      <button id="pause">Pause</button>
+      <button id="step">Step</button>
+      <button id="replay">Replay</button>
+      <label>Speed <input type="range" id="speed" min="0.5" max="2" value="1" step="0.1"></label>
+      <label class="avatar-only-label"><input type="checkbox" id="showDictionaryVideo" /> Toon dictionaryvideo (signer)</label>
+    </div>
+    <div id="status">Ready.</div>
+    <div id="warnings" class="warn"></div>
+    <div id="fallbackSummary" class="ok"></div>
+    <div id="stage">
+      <div class="video-wrap avatar-only">
+        <video id="signVideoA" class="layered-video" playsinline muted preload="auto"></video>
+        <video id="signVideoB" class="layered-video" playsinline muted preload="auto"></video>
+        <canvas id="avatarOverlay"></canvas>
+        <div id="noVideo" class="no-video">Geen videoclip voor dit segment (nog geen URL in de dataset).</div>
+      </div>
+      <div class="side">
+        <h3 style="margin:0 0 8px;font-size:15px">Segment</h3>
+        <div id="segmentMeta">-</div>
+        <h3 style="margin:12px 0 8px;font-size:15px">Bron</h3>
+        <div id="renderMode">-</div>
+        <h3 style="margin:12px 0 8px;font-size:15px">Video-URL</h3>
+        <div id="videoFallback" class="videoFallback">-</div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="./src/app/main.js"></script>
+</body>
+</html>

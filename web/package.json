@@ -1,0 +1,9 @@
+{
+  "name": "vgt-converter-web",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "sh -c 'python3 -m http.server ${PORT:-5173}'",
+    "test": "node --test"
+  }
+}

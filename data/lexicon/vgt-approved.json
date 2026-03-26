@@ -1,0 +1,100 @@
+[
+  {
+    "token": "we",
+    "signId": "WG-4",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "wij",
+      "wg"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=we",
+      "extractedAt": "2026-03-25T19:06:52.671Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e026044b8584d74d422e65416f59312fbcb9dc60",
+      "signNumericId": 13947,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+    },
+    "review": {
+      "status": "production",
+      "reviewer": "deaf_reviewer_seed",
+      "reviewedAt": "2026-03-26T00:00:00Z",
+      "notes": "seed approval for pipeline verification"
+    }
+  },
+  {
+    "token": "sorry",
+    "signId": "SORRY",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "pardon",
+      "excuseer"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=sorry",
+      "extractedAt": "2026-03-25T19:06:52.671Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "aa52b90a4fd653faa9bbbaab8e98d70b00774dc2",
+      "signNumericId": 11113,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+    },
+    "review": {
+      "status": "production",
+      "reviewer": "deaf_reviewer_seed",
+      "reviewedAt": "2026-03-26T00:00:00Z",
+      "notes": "seed approval for pipeline verification"
+    }
+  }
+]

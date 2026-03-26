@@ -1,0 +1,5430 @@
+[
+  {
+    "token": "a",
+    "signId": "A",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=a",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e936f538b34496c9937de08f9e083fc38bf8703b",
+      "signNumericId": 15947,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/A-/A-A-15947.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/A-/A-A-15947.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "b",
+    "signId": "B",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=b",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "ab835aff2ef2cdb11e2e7632a0e98253aa69bcfb",
+      "signNumericId": 15948,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/B-/B-A-15948.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/B-/B-A-15948.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "c",
+    "signId": "C",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=c",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "41ea3dddaf6cb88fb2b7c5aa6d4560cef261dd42",
+      "signNumericId": 15949,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/C-/C-A-15949.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/C-/C-A-15949.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "d",
+    "signId": "D",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=d",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "0965e4c4b7f06569d108f5d3ec0f5569291afda8",
+      "signNumericId": 15950,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/D-/D-A-15950.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/D-/D-A-15950.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "e",
+    "signId": "E",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=e",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "36c3ee5a2fa9423b22d71e83759d729ccebbd33a",
+      "signNumericId": 15951,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/E-/E-A-15951.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/E-/E-A-15951.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "f",
+    "signId": "F",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=f",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "5ef1b676a38110013c1d849a68e49774d6ec2694",
+      "signNumericId": 15952,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/F-/F-A-15952.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/F-/F-A-15952.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "g",
+    "signId": "G",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=g",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "bd9b6be5cc1e00a1d1f5071f0840e32cfc402675",
+      "signNumericId": 15953,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/G-/G-A-15953.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/G-/G-A-15953.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "h",
+    "signId": "H",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=h",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "04103356f225b310d05f04140448cb13fb7acba7",
+      "signNumericId": 15954,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/H-/H-A-15954.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/H-/H-A-15954.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "i",
+    "signId": "I",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=i",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e134f7bfcf27959633d513c17519b6975eac9aff",
+      "signNumericId": 15955,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/I-/I-A-15955.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/I-/I-A-15955.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "j",
+    "signId": "J",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=j",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "af3d4fb20d649bf20ba8906d6c7616d0e3210ebb",
+      "signNumericId": 15956,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/J-/J-A-15956.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/J-/J-A-15956.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "k",
+    "signId": "K",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=k",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "bdff6167bc8f5a4ab15ee07f9c33c36fc7cbf2e1",
+      "signNumericId": 15957,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/K-/K-A-15957.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/K-/K-A-15957.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "temperatuur",
+    "signId": "KELVIN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "k",
+      "kelvin"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=temperatuur",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "c7697af44cbb890f8e05867a2e5346d48de66c15",
+      "signNumericId": 5793,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "kelvin",
+    "signId": "KELVIN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "k",
+      "temperatuur"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=kelvin",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "43efd47d05f2683653eadecac9237d4c9521ccc9",
+      "signNumericId": 5793,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "l",
+    "signId": "L",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=l",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "92fbaee348b6b11e3131f9f08430883f106689fc",
+      "signNumericId": 15959,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/L-/L-A-15959.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/L-/L-A-15959.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "m",
+    "signId": "M",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=m",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "27af3ba87651372d9679addd82581e1fa59f5e31",
+      "signNumericId": 15960,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/M-/M-A-15960.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/M-/M-A-15960.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "n",
+    "signId": "N",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=n",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "7d6511eb08ec19e4b5cc46c483157cb4705267bf",
+      "signNumericId": 15961,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/N-/N-A-15961.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/N-/N-A-15961.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "o",
+    "signId": "O",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=o",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "34d9a50f859bd4b952f8885eba79c8a82f916d83",
+      "signNumericId": 15962,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/O-/O-A-15962.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/O-/O-A-15962.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "p",
+    "signId": "P",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=p",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3ff2fea3d39d1025ae3886b93860d1ad02544dca",
+      "signNumericId": 15963,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/P-/P-A-15963.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/P-/P-A-15963.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "q",
+    "signId": "Q",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=q",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "9ab456750938bf04e2d94969538500786b79be1b",
+      "signNumericId": 15965,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Q-/Q-A-15965.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Q-/Q-A-15965.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "r",
+    "signId": "R",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=r",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8bc85f7165ad2482ee02e3432686f58b8b366fd8",
+      "signNumericId": 15966,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/R-/R-A-15966.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/R-/R-A-15966.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "s",
+    "signId": "S",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=s",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "324e97a330164240672444d9a49dba0839ad0c69",
+      "signNumericId": 15967,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/S-/S-A-15967.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/S-/S-A-15967.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "t",
+    "signId": "T",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=t",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "39014b90d4c92e07aaf3f33c074af7e74f1a711a",
+      "signNumericId": 15968,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/T-/T-A-15968.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/T-/T-A-15968.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "u",
+    "signId": "U",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=u",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "a9f57cdfd72aedf4c7d19a8b20b17c337b959a06",
+      "signNumericId": 15969,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/U-/U-A-15969.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/U-/U-A-15969.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "jij",
+    "signId": "WG-2",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "je",
+      "u",
+      "gij",
+      "ge"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=jij",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3560a938340a890bb689e5a4b486c0cc49fc03ed",
+      "signNumericId": 5521,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "je",
+    "signId": "WG-2",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "jij",
+      "u",
+      "gij",
+      "ge"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=je",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "940e650d22cd3167775291f6cba89174b40ef935",
+      "signNumericId": 5521,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "gij",
+    "signId": "WG-2",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "jij",
+      "je",
+      "u",
+      "ge"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=gij",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "84f916141d809b308ae25da6385c4bbda6a29bc3",
+      "signNumericId": 5521,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ge",
+    "signId": "WG-2",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "jij",
+      "je",
+      "u",
+      "gij"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ge",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e9eb8f06203e6a68e4ee796402ef5c7ae184f678",
+      "signNumericId": 5521,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "v",
+    "signId": "V",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=v",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "ea112fb4e4d7ed688682442c686751504954042d",
+      "signNumericId": 15970,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/V-/V-A-15970.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/V-/V-A-15970.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "w",
+    "signId": "W",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=w",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "692ac55121c4cf23445b892731d24da54ebf2a3b",
+      "signNumericId": 15971,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/W-/W-A-15971.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/W-/W-A-15971.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "x",
+    "signId": "X",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=x",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "0bb4ece5c4beb65439e699ee0c94b0bc56c450a5",
+      "signNumericId": 15973,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-A-15973.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-A-15973.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "y",
+    "signId": "Y",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=y",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e0158a8d311a8d6867c76330a53981b56009e0e5",
+      "signNumericId": 15974,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Y-/Y-A-15974.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Y-/Y-A-15974.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "z",
+    "signId": "Z",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=z",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "91b19f19aa111abd578ce1d62189da006bf37315",
+      "signNumericId": 15975,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Z-/Z-A-15975.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Z-/Z-A-15975.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ai",
+    "signId": "AI",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "kunstmatige intelligentie",
+      "artificiële intelligentie",
+      "artificial intelligence"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ai",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "9a7049b3ea9e3bb2c8709a28c5f6db37e269d630",
+      "signNumericId": 22185,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "kunstmatige intelligentie",
+    "signId": "AI",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "AI",
+      "artificiële intelligentie",
+      "artificial intelligence"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=kunstmatige%20intelligentie",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "2a3db87ba4dd6b063835661d33a867a455f86056",
+      "signNumericId": 22185,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "artificiële intelligentie",
+    "signId": "AI",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "AI",
+      "kunstmatige intelligentie",
+      "artificial intelligence"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=artifici%C3%ABle%20intelligentie",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "a782690f6d5198c083a9f460e5d375193d01e895",
+      "signNumericId": 22185,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "artificial intelligence",
+    "signId": "AI",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "AI",
+      "kunstmatige intelligentie",
+      "artificiële intelligentie"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=artificial%20intelligence",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "297d2d5d82d3d41c61b6c8da5eeb3cf8ffef3804",
+      "signNumericId": 22185,
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ei",
+    "signId": "EI",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ei",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "f7eedc111b110456e5140d5888c7c3ea85089335",
+      "signNumericId": 3428,
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-A-3428.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-A-3428.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "europese unie",
+    "signId": "EU",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "EU"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=europese%20unie",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "b52ae1fc692c78290cefc49c9f167c326ed69396",
+      "signNumericId": 3642,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "eu",
+    "signId": "EU",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "Europese Unie"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=eu",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "f6b0d86f191ff73fbeeefa06450348c13daec8e1",
+      "signNumericId": 3642,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ui",
+    "signId": "AJUIN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "ajuin"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e7620962f93ecf6160deed6f8ad69457aee96d51",
+      "signNumericId": 314,
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ajuin",
+    "signId": "AJUIN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "ui"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "99d08d30643c20e25310d85c07ec19618a20c740",
+      "signNumericId": 314,
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ik",
+    "signId": "WG-1",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "ikzelf",
+      "ikke"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ik",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "bc30be380e981cc1acc49418ef48d8ccb065b788",
+      "signNumericId": 5265,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ikzelf",
+    "signId": "WG-1",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "ik",
+      "ikke"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ikzelf",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "18b9e11c1b432bc4839281d111f6a181401e3b6b",
+      "signNumericId": 5265,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ikke",
+    "signId": "WG-1",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "ik",
+      "ikzelf"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ikke",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "874d4eea46fb1aa58551ea4be3ef0d31d3bf64fd",
+      "signNumericId": 5265,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "wij",
+    "signId": "WG-4",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "we",
+      "wg"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=wij",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "df03fb34dccb078689ee0c7439e4b1a4ddd7090c",
+      "signNumericId": 13947,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "we",
+    "signId": "WG-4",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "wij",
+      "wg"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=we",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e026044b8584d74d422e65416f59312fbcb9dc60",
+      "signNumericId": 13947,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "wg",
+    "signId": "WG-4",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "wij",
+      "we"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=wg",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "500a31c6f209fb9636b70ecf96b30c20414f6aab",
+      "signNumericId": 13947,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "jullie",
+    "signId": "WG-5",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=jullie",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "69b8c071c7e68c3687ac7c85ba6c26b49583adcb",
+      "signNumericId": 5569,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-5-A-5569.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-5-A-5569.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hij",
+    "signId": "WG-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "zij"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hij",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "57c6c8a372822eeb5ce25a1df094160f99528bd7",
+      "signNumericId": 4956,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "zij",
+    "signId": "WG-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "hij"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=zij",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "883f652d70c4f5c41d7dc68df73418a073f13e2a",
+      "signNumericId": 4956,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ze",
+    "signId": "WG-6",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "zij"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ze",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "946c5e09e32dacb6b990ab9cdb040bf7c074e15a",
+      "signNumericId": 14357,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-A-14357.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-A-14357.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "van hem",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van haar",
+      "van iets",
+      "zijn",
+      "haar",
+      "hun",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20hem",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "e3af3ebc7ff4c62c834751c9639619639f31861c",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "van haar",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van iets",
+      "zijn",
+      "haar",
+      "hun",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20haar",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "7219c337ba83b151024e16453f8358d1f1668b29",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "van iets",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van haar",
+      "zijn",
+      "haar",
+      "hun",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20iets",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "68497e87b917a777cff7670c6bbed5d20b769ed5",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "zijn",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van haar",
+      "van iets",
+      "haar",
+      "hun",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=zijn",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "17a1bf35e98f5f3f02dcbaf8d995219f8c17c533",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "haar",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van haar",
+      "van iets",
+      "zijn",
+      "hun",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=haar",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "d0c1e882ff7cdfc78753bc5e2227cb22f18fbf83",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hun",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van haar",
+      "van iets",
+      "zijn",
+      "haar",
+      "van"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hun",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3dd8a6467a5e9f1de4871cbb0c77155bb87ec66b",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "van",
+    "signId": "VAN-3",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "van hem",
+      "van haar",
+      "van iets",
+      "zijn",
+      "haar",
+      "hun"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=van",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8b7ca696345466a7284459e813d8a82b827bfcf0",
+      "signNumericId": 12517,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hebben",
+    "signId": "HEBBEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "er is",
+      "er zijn",
+      "bestaan"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hebben",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8038e7762928c0277702fec3bdbe4c5b9b2b60d3",
+      "signNumericId": 4801,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "er is",
+    "signId": "HEBBEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "hebben",
+      "er zijn",
+      "bestaan"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=er%20is",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "ccb74af0613595e3c9c7a85be60ddcd1ed858a5a",
+      "signNumericId": 4801,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "er zijn",
+    "signId": "HEBBEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "hebben",
+      "er is",
+      "bestaan"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=er%20zijn",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "d6ea01907b8155291083ce3b2ec51adbafa531a5",
+      "signNumericId": 4801,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "bestaan",
+    "signId": "HEBBEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "hebben",
+      "er is",
+      "er zijn"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=bestaan",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "18f26d4baee5ef505e0a1b1d6253943087f2951f",
+      "signNumericId": 4801,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "help",
+    "signId": "HELPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "hulp",
+      "helpen"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "660bcf591e1f594d4d99beda2b6a0f189c811814",
+      "signNumericId": 4853,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hulp",
+    "signId": "HELPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "help",
+      "helpen"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "38fee760cf2f1d05ef19cdc7a368674cbb78f9af",
+      "signNumericId": 4853,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "helpen",
+    "signId": "HELPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "help",
+      "hulp"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "extractedAt": "2026-03-25T20:13:42.849Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "a997ba50712c7f0ecb4ce8e61f5e0aff7108a8ca",
+      "signNumericId": 4853,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "doen",
+    "signId": "DOEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "handelen",
+      "handeling"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=doen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "21941b7881f5a1a2255d35ae5b38bca495b7f0ad",
+      "signNumericId": 3030,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "handelen",
+    "signId": "DOEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "doen",
+      "handeling"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=handelen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "ef04548537d62c2e4266a42670102d5a28532b1a",
+      "signNumericId": 3030,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "handeling",
+    "signId": "DOEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "doen",
+      "handelen"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=handeling",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "be02216192b8b515ea75d8f564636d8f3bdbd699",
+      "signNumericId": 3030,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "stappen",
+    "signId": "STAPPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "gaan"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=stappen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "5b6b2422fe43107ab451ab7553fb311c1775354c",
+      "signNumericId": 11383,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "gaan",
+    "signId": "STAPPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "stappen"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=gaan",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "27a655cf3450e4ab9c3e3f431b68227d7fd83851",
+      "signNumericId": 11383,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "komen",
+    "signId": "KOMEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=komen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "d80d741736ce98d798068584cf0612765328f6f7",
+      "signNumericId": 6205,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KO/KOMEN-A-6205.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KO/KOMEN-A-6205.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "eten",
+    "signId": "ETEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=eten",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "621c8fc9a5aff56050614fc9730528c182b75acd",
+      "signNumericId": 3634,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ET/ETEN-A-3634.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ET/ETEN-A-3634.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "drank",
+    "signId": "DRINKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "drinken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=drank",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "4f0bbdb9746f2c04102d9c1a7da11d8e3feb7a5e",
+      "signNumericId": 3160,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "drinken",
+    "signId": "DRINKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "drank"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=drinken",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8b5d8b5312ac19d5e9c0101470037b8df149af35",
+      "signNumericId": 3160,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "zuipen",
+    "signId": "ZUIPEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "drinken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=zuipen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "ece66a43750f0235ee171bf120ac8f2edcdbd639",
+      "signNumericId": 14501,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-B-14501.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-B-14501.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "werken",
+    "signId": "WERKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "fb33b183606cc0614d371ef060c67ae96cf45a27",
+      "signNumericId": 13856,
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-A-13856.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-A-13856.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "werk",
+    "signId": "WERKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "werken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=werk",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "44e948dcdd3c11e7406d1ebb15f0b0c630395323",
+      "signNumericId": 13857,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-B-13857.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-B-13857.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "school",
+    "signId": "SCHOOL",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=school",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "66479c39ce551f51f7ca0c0556a5c3fe23f23a8d",
+      "signNumericId": 10547,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-A-10547.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-A-10547.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "huis",
+    "signId": "HUIS",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=huis",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8771049232c52cff4f386654b3d73f20901fd6af",
+      "signNumericId": 5167,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HU/HUIS-A-5167.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HU/HUIS-A-5167.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "vandaag",
+    "signId": "VANDAAG",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=vandaag",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "c4ddac129e3d523422e4a69749c321af758b05fa",
+      "signNumericId": 12534,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VANDAAG-A-12534.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VANDAAG-A-12534.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "morgen",
+    "signId": "MORGEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=morgen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "9d6343d72ad1363ee72c3d8e651de280899135ea",
+      "signNumericId": 7755,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-A-7755.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-A-7755.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "gister",
+    "signId": "GISTEREN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "gisteren"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=gister",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3ec0e062aae1ba70171648c9f3e4bcbcf9a1f0a1",
+      "signNumericId": 4363,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "gisteren",
+    "signId": "GISTEREN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "gister"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=gisteren",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "00fbf8503fcd5205e4282732e5b3d396e453668f",
+      "signNumericId": 4363,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "bedankt",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=bedankt",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "41c73fcfc4799c08fc1e09f36eb7d69d5a2949e7",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "danku",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=danku",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "741554abe6f611370e134a3fb1c086019433794d",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "dankuwel",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankuwel",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "6bd356d50e58bcb93e96919d46a02ef6b39d52ba",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "dank",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=dank",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "a5a5f6d6848379a22a2224552067616e029751a1",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "dankje",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankje",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "d8e34e3e7313c3f6a4fefdc166dae4a117b1697b",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "dankjewel",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "danken",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankjewel",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "2c61d2397b333fe80801aa9b467f9d9e50c3c891",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "danken",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "merci",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=danken",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "febd147b8a2d301af9ad6c0b4bf2d3d66e3f398c",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "merci",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "thx",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=merci",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "1fa2476b281a8d0e0e2c79a007c8075960efb29e",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "thx",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "bedanken"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=thx",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "6dafadaea507a11211d5aebf0ebf07a3064d6d73",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "bedanken",
+    "signId": "BEDANKEN",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "bedankt",
+      "danku",
+      "dankuwel",
+      "dank",
+      "dankje",
+      "dankjewel",
+      "danken",
+      "merci",
+      "thx"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=bedanken",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "66f84b60a0a6ce29982fde4a8956558bfae75cca",
+      "signNumericId": 1036,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hallo",
+    "signId": "HALLO",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hallo",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "87224448daf1b00a3f20bfbb3b74dcb3ab513175",
+      "signNumericId": 16601,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HA/HALLO-A-16601.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HA/HALLO-A-16601.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "sorry",
+    "signId": "SORRY",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "pardon",
+      "excuseer"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=sorry",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "aa52b90a4fd653faa9bbbaab8e98d70b00774dc2",
+      "signNumericId": 11113,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "pardon",
+    "signId": "SORRY",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "sorry",
+      "excuseer"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=pardon",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "f534f583f23507a1e62c86315bcd9022d93d5efb",
+      "signNumericId": 11113,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "excuseer",
+    "signId": "SORRY",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "sorry",
+      "pardon"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=excuseer",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "cc03da9d4c0f1f4d434d31e1fac28c4bdefb2ff7",
+      "signNumericId": 11113,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "goed",
+    "signId": "GOED",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=goed",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "34c18d4ea190b0ea887e8e463feca6363723926a",
+      "signNumericId": 4411,
+      "regions": [
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-A-4411.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-A-4411.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "slecht",
+    "signId": "SLECHT",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=slecht",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "9c6dd5c81a255a1a3dc2654532a4f2d4dee380c3",
+      "signNumericId": 10925,
+      "regions": [
+        "West-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-A-10925.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-A-10925.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "niet lekker",
+    "signId": "SLECHT-VOEDSEL",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "vies",
+      "vuil",
+      "slecht"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=niet%20lekker",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "b0c936941c7e1b2a0e941c9580510005c23e6370",
+      "signNumericId": 10926,
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "vies",
+    "signId": "SLECHT-VOEDSEL",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "niet lekker",
+      "vuil",
+      "slecht"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=vies",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "c8b146a2f6c591afd9464b5fe153095d539b51c0",
+      "signNumericId": 10926,
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "vuil",
+    "signId": "SLECHT-VOEDSEL",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "niet lekker",
+      "vies",
+      "slecht"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=vuil",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3bca57923fa60bb12180cd0e2a9b9aab57714442",
+      "signNumericId": 10926,
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "ja",
+    "signId": "JA",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=ja",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "1c4e506851d0219baf3582bd9e4a6f52a5973524",
+      "signNumericId": 5464,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/JA/JA-A-5464.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/JA/JA-A-5464.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "nee",
+    "signId": "NEE",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "neen"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=nee",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "3ba1039f226c30ec69786209576900a70ae287e1",
+      "signNumericId": 15049,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "neen",
+    "signId": "NEE",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "nee"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=neen",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "a0b6551fe2c518870a610064f40cdbef28b0d879",
+      "signNumericId": 15049,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "waarom",
+    "signId": "WAAROM",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "4201ee2df33855647b76949ccd0b91aef85ae2c0",
+      "signNumericId": 13564,
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-A-13564.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-A-13564.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "hoe",
+    "signId": "HOE",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "8c9eb672aac8c10c59ff6e0285c0addb2ade8a1b",
+      "signNumericId": 4966,
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-A-4966.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-A-4966.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "wat",
+    "signId": "WAT",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=wat",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "2fb2b3b72aacd9f9bfbd7fbe0e20022913fa8c78",
+      "signNumericId": 13657,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAT-A-13657.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAT-A-13657.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "wie",
+    "signId": "WIE",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "36ea518557813e859e733b91c8eda339a284cee0",
+      "signNumericId": 13919,
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-A-13919.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-A-13919.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "waar",
+    "signId": "WAAR",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=waar",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "055a8855ed8d3c7b930003e7fe201323586e54f5",
+      "signNumericId": 13557,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAR-A-13557.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAR-A-13557.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  },
+  {
+    "token": "echt",
+    "signId": "ECHT",
+    "durationMs": 800,
+    "confidence": 0.8,
+    "manual": {
+      "left": {
+        "pose": "rest",
+        "handshape": "B"
+      },
+      "right": {
+        "pose": "fingerspell",
+        "handshape": "FS"
+      }
+    },
+    "nonManual": {
+      "mouth": "neutral",
+      "brows": "neutral",
+      "head": "neutral"
+    },
+    "synonyms": [
+      "waar"
+    ],
+    "source": {
+      "url": "https://woordenboek.vlaamsegebarentaal.be/search?q=echt",
+      "extractedAt": "2026-03-25T20:13:42.850Z",
+      "snapshotFile": "snapshot_*_api.json",
+      "recordHash": "4f89a999df91862008fc3b065414fbe5fce66bfe",
+      "signNumericId": 3352,
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true
+    },
+    "media": {
+      "urls": [
+        "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EC/ECHT-A-3352.mp4"
+      ],
+      "primaryUrl": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EC/ECHT-A-3352.mp4"
+    },
+    "review": {
+      "status": "candidate",
+      "reviewer": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  }
+]

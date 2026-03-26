@@ -1,0 +1,30 @@
+{
+  "source": "https://woordenboek.vlaamsegebarentaal.be/api/signs",
+  "sourceType": "api",
+  "query": "hallo",
+  "extractedAt": "2026-03-25T20:12:54.825Z",
+  "count": 1,
+  "entries": [
+    {
+      "token": "hallo",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hallo",
+      "sourceId": "87224448daf1b00a3f20bfbb3b74dcb3ab513175",
+      "signRef": "HALLO",
+      "signNumericId": 16601,
+      "translations": [
+        "hallo"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HA/HALLO-A-16601.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "token": "we",
+    "status": "production",
+    "reviewer": "deaf_reviewer_seed",
+    "reviewedAt": "2026-03-26T00:00:00Z",
+    "notes": "seed approval for pipeline verification"
+  },
+  {
+    "token": "re",
+    "status": "production",
+    "reviewer": "deaf_reviewer_seed",
+    "reviewedAt": "2026-03-26T00:00:00Z",
+    "notes": "seed approval for pipeline verification"
+  },
+  {
+    "token": "sorry",
+    "status": "production",
+    "reviewer": "deaf_reviewer_seed",
+    "reviewedAt": "2026-03-26T00:00:00Z",
+    "notes": "seed approval for pipeline verification"
+  }
+]

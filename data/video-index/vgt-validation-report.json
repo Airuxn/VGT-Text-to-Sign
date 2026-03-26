@@ -1,0 +1,486 @@
+{
+  "generatedAt": "2026-03-25T20:14:30.976Z",
+  "checked": 68,
+  "valid": 67,
+  "validRate": 0.9852941176470589,
+  "pruned": true,
+  "prunedCount": 1,
+  "entries": [
+    {
+      "signId": "A",
+      "clipId": "candidate_a",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/A-/A-A-15947.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "B",
+      "clipId": "candidate_b",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/B-/B-A-15948.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "C",
+      "clipId": "candidate_c",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/C-/C-A-15949.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "D",
+      "clipId": "candidate_d",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/D-/D-A-15950.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "E",
+      "clipId": "candidate_e",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/E-/E-A-15951.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "F",
+      "clipId": "candidate_f",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/F-/F-A-15952.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "G",
+      "clipId": "candidate_g",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/G-/G-A-15953.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "H",
+      "clipId": "candidate_h",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/H-/H-A-15954.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "I",
+      "clipId": "candidate_i",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/I-/I-A-15955.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "J",
+      "clipId": "candidate_j",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/J-/J-A-15956.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "K",
+      "clipId": "candidate_k",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/K-/K-A-15957.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "KELVIN",
+      "clipId": "candidate_kelvin",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "L",
+      "clipId": "candidate_l",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/L-/L-A-15959.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "M",
+      "clipId": "candidate_m",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/M-/M-A-15960.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "N",
+      "clipId": "candidate_n",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/N-/N-A-15961.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "O",
+      "clipId": "candidate_o",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/O-/O-A-15962.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "P",
+      "clipId": "candidate_p",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/P-/P-A-15963.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "Q",
+      "clipId": "candidate_q",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Q-/Q-A-15965.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "R",
+      "clipId": "candidate_r",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/R-/R-A-15966.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "S",
+      "clipId": "candidate_s",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/S-/S-A-15967.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "T",
+      "clipId": "candidate_t",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/T-/T-A-15968.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "U",
+      "clipId": "candidate_u",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/U-/U-A-15969.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-2",
+      "clipId": "candidate_wg-2",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "V",
+      "clipId": "candidate_v",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/V-/V-A-15970.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "W",
+      "clipId": "candidate_w",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/W-/W-A-15971.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "X",
+      "clipId": "candidate_x",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-A-15973.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "X-TWITTER",
+      "clipId": "candidate_x-twitter",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-TWITTER-A-22180.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "Y",
+      "clipId": "candidate_y",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Y-/Y-A-15974.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "Z",
+      "clipId": "candidate_z",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Z-/Z-A-15975.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "AI",
+      "clipId": "candidate_ai",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "EI",
+      "clipId": "candidate_ei",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-A-3428.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "EU",
+      "clipId": "candidate_eu",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "EUROPESE-UNIE",
+      "clipId": "candidate_europese-unie",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EUROPESE-UNIE-A-22014.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "AJUIN",
+      "clipId": "candidate_ajuin",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-1",
+      "clipId": "candidate_wg-1",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-4",
+      "clipId": "candidate_wg-4",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-5",
+      "clipId": "candidate_wg-5",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-5-A-5569.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-3",
+      "clipId": "candidate_wg-3",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WG-6",
+      "clipId": "candidate_wg-6",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-A-14357.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "VAN-3",
+      "clipId": "candidate_van-3",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+      "ok": false,
+      "status": 404
+    },
+    {
+      "signId": "HEBBEN",
+      "clipId": "candidate_hebben",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "HELPEN",
+      "clipId": "candidate_helpen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "DOEN",
+      "clipId": "candidate_doen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "STAPPEN",
+      "clipId": "candidate_stappen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "KOMEN",
+      "clipId": "candidate_komen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KO/KOMEN-A-6205.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "ETEN",
+      "clipId": "candidate_eten",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ET/ETEN-A-3634.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "DRINKEN",
+      "clipId": "candidate_drinken",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "ZUIPEN",
+      "clipId": "candidate_zuipen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-B-14501.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WERKEN",
+      "clipId": "candidate_werken",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-A-13856.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "SCHOOL",
+      "clipId": "candidate_school",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-A-10547.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "HUIS",
+      "clipId": "candidate_huis",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HU/HUIS-A-5167.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "VANDAAG",
+      "clipId": "candidate_vandaag",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VANDAAG-A-12534.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "MORGEN",
+      "clipId": "candidate_morgen",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-A-7755.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "GISTEREN",
+      "clipId": "candidate_gisteren",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "BEDANKEN",
+      "clipId": "candidate_bedanken",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "HALLO",
+      "clipId": "candidate_hallo",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HA/HALLO-A-16601.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "SORRY",
+      "clipId": "candidate_sorry",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "GOED",
+      "clipId": "candidate_goed",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-A-4411.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "SLECHT",
+      "clipId": "candidate_slecht",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-A-10925.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "SLECHT-VOEDSEL",
+      "clipId": "candidate_slecht-voedsel",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "JA",
+      "clipId": "candidate_ja",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/JA/JA-A-5464.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "NEE",
+      "clipId": "candidate_nee",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WAAROM",
+      "clipId": "candidate_waarom",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-A-13564.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "HOE",
+      "clipId": "candidate_hoe",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-A-4966.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WAT",
+      "clipId": "candidate_wat",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAT-A-13657.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WIE",
+      "clipId": "candidate_wie",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-A-13919.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "WAAR",
+      "clipId": "candidate_waar",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAR-A-13557.mp4",
+      "ok": true,
+      "status": 200
+    },
+    {
+      "signId": "ECHT",
+      "clipId": "candidate_echt",
+      "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EC/ECHT-A-3352.mp4",
+      "ok": true,
+      "status": 200
+    }
+  ]
+}

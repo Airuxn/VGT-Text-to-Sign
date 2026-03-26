@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VGT Lexicon Entry v2",
+  "type": "object",
+  "required": ["token", "signId", "durationMs", "confidence", "manual", "nonManual"],
+  "properties": {
+    "token": { "type": "string" },
+    "signId": { "type": "string" },
+    "durationMs": { "type": "integer", "minimum": 100 },
+    "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+    "manual": {
+      "type": "object",
+      "required": ["left", "right"],
+      "properties": {
+        "left": {
+          "type": "object",
+          "required": ["pose", "handshape"],
+          "properties": {
+            "pose": { "type": "string" },
+            "handshape": { "type": "string" }
+          }
+        },
+        "right": {
+          "type": "object",
+          "required": ["pose", "handshape"],
+          "properties": {
+            "pose": { "type": "string" },
+            "handshape": { "type": "string" }
+          }
+        }
+      }
+    },
+    "nonManual": {
+      "type": "object",
+      "required": ["mouth", "brows", "head"],
+      "properties": {
+        "mouth": { "type": "string" },
+        "brows": { "type": "string" },
+        "head": { "type": "string" }
+      }
+    },
+    "synonyms": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

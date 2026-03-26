@@ -1,0 +1,4632 @@
+{
+  "source": "https://woordenboek.vlaamsegebarentaal.be/api/signs",
+  "sourceType": "api",
+  "query": "*",
+  "extractedAt": "2026-03-25T20:13:42.847Z",
+  "count": 203,
+  "entries": [
+    {
+      "token": "a",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=a",
+      "sourceId": "e936f538b34496c9937de08f9e083fc38bf8703b",
+      "signRef": "A",
+      "signNumericId": 15947,
+      "translations": [
+        "a"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/A-/A-A-15947.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "a",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=a",
+      "sourceId": "ddd99cef7d5aea5119e0b3e4660eef9befa0a3db",
+      "signRef": "A",
+      "signNumericId": 16993,
+      "translations": [
+        "a"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/A-/A-B-16993.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "b",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=b",
+      "sourceId": "ab835aff2ef2cdb11e2e7632a0e98253aa69bcfb",
+      "signRef": "B",
+      "signNumericId": 15948,
+      "translations": [
+        "b"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/B-/B-A-15948.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "c",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=c",
+      "sourceId": "41ea3dddaf6cb88fb2b7c5aa6d4560cef261dd42",
+      "signRef": "C",
+      "signNumericId": 15949,
+      "translations": [
+        "c"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/C-/C-A-15949.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "d",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=d",
+      "sourceId": "0965e4c4b7f06569d108f5d3ec0f5569291afda8",
+      "signRef": "D",
+      "signNumericId": 15950,
+      "translations": [
+        "d"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/D-/D-A-15950.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "e",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=e",
+      "sourceId": "36c3ee5a2fa9423b22d71e83759d729ccebbd33a",
+      "signRef": "E",
+      "signNumericId": 15951,
+      "translations": [
+        "e"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/E-/E-A-15951.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "f",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=f",
+      "sourceId": "5ef1b676a38110013c1d849a68e49774d6ec2694",
+      "signRef": "F",
+      "signNumericId": 15952,
+      "translations": [
+        "f"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/F-/F-A-15952.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "g",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=g",
+      "sourceId": "bd9b6be5cc1e00a1d1f5071f0840e32cfc402675",
+      "signRef": "G",
+      "signNumericId": 15953,
+      "translations": [
+        "g"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/G-/G-A-15953.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "h",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=h",
+      "sourceId": "04103356f225b310d05f04140448cb13fb7acba7",
+      "signRef": "H",
+      "signNumericId": 15954,
+      "translations": [
+        "h"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/H-/H-A-15954.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "i",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=i",
+      "sourceId": "e134f7bfcf27959633d513c17519b6975eac9aff",
+      "signRef": "I",
+      "signNumericId": 15955,
+      "translations": [
+        "i"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/I-/I-A-15955.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "j",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=j",
+      "sourceId": "af3d4fb20d649bf20ba8906d6c7616d0e3210ebb",
+      "signRef": "J",
+      "signNumericId": 15956,
+      "translations": [
+        "j"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/J-/J-A-15956.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "k",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=k",
+      "sourceId": "bdff6167bc8f5a4ab15ee07f9c33c36fc7cbf2e1",
+      "signRef": "K",
+      "signNumericId": 15957,
+      "translations": [
+        "k"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/K-/K-A-15957.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "k",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=k",
+      "sourceId": "1ac5267d3022ce3035ed4173d2d28ea0f63bd92d",
+      "signRef": "KELVIN",
+      "signNumericId": 5793,
+      "translations": [
+        "k",
+        "temperatuur",
+        "kelvin"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "temperatuur",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=temperatuur",
+      "sourceId": "c7697af44cbb890f8e05867a2e5346d48de66c15",
+      "signRef": "KELVIN",
+      "signNumericId": 5793,
+      "translations": [
+        "k",
+        "temperatuur",
+        "kelvin"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "kelvin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=kelvin",
+      "sourceId": "43efd47d05f2683653eadecac9237d4c9521ccc9",
+      "signRef": "KELVIN",
+      "signNumericId": 5793,
+      "translations": [
+        "k",
+        "temperatuur",
+        "kelvin"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KE/KELVIN-A-5793.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "l",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=l",
+      "sourceId": "92fbaee348b6b11e3131f9f08430883f106689fc",
+      "signRef": "L",
+      "signNumericId": 15959,
+      "translations": [
+        "l"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/L-/L-A-15959.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "m",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=m",
+      "sourceId": "27af3ba87651372d9679addd82581e1fa59f5e31",
+      "signRef": "M",
+      "signNumericId": 15960,
+      "translations": [
+        "m"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/M-/M-A-15960.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "m",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=m",
+      "sourceId": "cd470a9a21345983d4f4696b1b34ab4789b9ea8e",
+      "signRef": "M",
+      "signNumericId": 17576,
+      "translations": [
+        "m"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/M-/M-B-17576.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "n",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=n",
+      "sourceId": "7d6511eb08ec19e4b5cc46c483157cb4705267bf",
+      "signRef": "N",
+      "signNumericId": 15961,
+      "translations": [
+        "n"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/N-/N-A-15961.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "o",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=o",
+      "sourceId": "34d9a50f859bd4b952f8885eba79c8a82f916d83",
+      "signRef": "O",
+      "signNumericId": 15962,
+      "translations": [
+        "o"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/O-/O-A-15962.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "p",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=p",
+      "sourceId": "3ff2fea3d39d1025ae3886b93860d1ad02544dca",
+      "signRef": "P",
+      "signNumericId": 15963,
+      "translations": [
+        "p"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/P-/P-A-15963.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "p",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=p",
+      "sourceId": "d0a0512e143a8365ee7a5b4a4444b086de823ef5",
+      "signRef": "P",
+      "signNumericId": 15964,
+      "translations": [
+        "p"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/P-/P-B-15964.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "q",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=q",
+      "sourceId": "9ab456750938bf04e2d94969538500786b79be1b",
+      "signRef": "Q",
+      "signNumericId": 15965,
+      "translations": [
+        "q"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Q-/Q-A-15965.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "r",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=r",
+      "sourceId": "8bc85f7165ad2482ee02e3432686f58b8b366fd8",
+      "signRef": "R",
+      "signNumericId": 15966,
+      "translations": [
+        "r"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/R-/R-A-15966.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "r",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=r",
+      "sourceId": "9a1d22f71a50d8ba02e9de22d8721003740255cc",
+      "signRef": "R",
+      "signNumericId": 19453,
+      "translations": [
+        "r"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/R-/R-B-19453.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "s",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=s",
+      "sourceId": "324e97a330164240672444d9a49dba0839ad0c69",
+      "signRef": "S",
+      "signNumericId": 15967,
+      "translations": [
+        "s"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/S-/S-A-15967.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "s",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=s",
+      "sourceId": "c1120019530559dfcdb33a6cdf8361367a6824c9",
+      "signRef": "S",
+      "signNumericId": 17669,
+      "translations": [
+        "s"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/S-/S-B-17669.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "t",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=t",
+      "sourceId": "39014b90d4c92e07aaf3f33c074af7e74f1a711a",
+      "signRef": "T",
+      "signNumericId": 15968,
+      "translations": [
+        "t"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/T-/T-A-15968.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "u",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=u",
+      "sourceId": "a9f57cdfd72aedf4c7d19a8b20b17c337b959a06",
+      "signRef": "U",
+      "signNumericId": 15969,
+      "translations": [
+        "u"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/U-/U-A-15969.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "jij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=jij",
+      "sourceId": "3560a938340a890bb689e5a4b486c0cc49fc03ed",
+      "signRef": "WG-2",
+      "signNumericId": 5521,
+      "translations": [
+        "jij",
+        "je",
+        "u",
+        "gij",
+        "ge"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "je",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=je",
+      "sourceId": "940e650d22cd3167775291f6cba89174b40ef935",
+      "signRef": "WG-2",
+      "signNumericId": 5521,
+      "translations": [
+        "jij",
+        "je",
+        "u",
+        "gij",
+        "ge"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "u",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=u",
+      "sourceId": "534d88bf946a4b627f628bf98bf776eb5cfef2a6",
+      "signRef": "WG-2",
+      "signNumericId": 5521,
+      "translations": [
+        "jij",
+        "je",
+        "u",
+        "gij",
+        "ge"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gij",
+      "sourceId": "84f916141d809b308ae25da6385c4bbda6a29bc3",
+      "signRef": "WG-2",
+      "signNumericId": 5521,
+      "translations": [
+        "jij",
+        "je",
+        "u",
+        "gij",
+        "ge"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ge",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ge",
+      "sourceId": "e9eb8f06203e6a68e4ee796402ef5c7ae184f678",
+      "signRef": "WG-2",
+      "signNumericId": 5521,
+      "translations": [
+        "jij",
+        "je",
+        "u",
+        "gij",
+        "ge"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-2-5521.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "v",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=v",
+      "sourceId": "ea112fb4e4d7ed688682442c686751504954042d",
+      "signRef": "V",
+      "signNumericId": 15970,
+      "translations": [
+        "v"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/V-/V-A-15970.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "w",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=w",
+      "sourceId": "692ac55121c4cf23445b892731d24da54ebf2a3b",
+      "signRef": "W",
+      "signNumericId": 15971,
+      "translations": [
+        "w"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/W-/W-A-15971.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "w",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=w",
+      "sourceId": "bd40b76f3b79f1dcbcd9c215c4a2abf0cc565415",
+      "signRef": "W",
+      "signNumericId": 15972,
+      "translations": [
+        "w"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/W-/W-B-15972.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "x",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=x",
+      "sourceId": "0bb4ece5c4beb65439e699ee0c94b0bc56c450a5",
+      "signRef": "X",
+      "signNumericId": 15973,
+      "translations": [
+        "x"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-A-15973.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "x",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=x",
+      "sourceId": "1e6dbb7034366634349e84fd3c7a84b426a78384",
+      "signRef": "X",
+      "signNumericId": 17845,
+      "translations": [
+        "x"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-B-17845.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "x",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=x",
+      "sourceId": "a2ed7babb74fb071b9ebceb5d8b4f20aeaffa393",
+      "signRef": "X",
+      "signNumericId": 18035,
+      "translations": [
+        "x"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-C-18035.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "x",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=x",
+      "sourceId": "2dc7fb0965da20f81ab1a5e07e27a28c316afebf",
+      "signRef": "X-TWITTER",
+      "signNumericId": 22180,
+      "translations": [
+        "X"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/X-/X-TWITTER-A-22180.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "y",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=y",
+      "sourceId": "e0158a8d311a8d6867c76330a53981b56009e0e5",
+      "signRef": "Y",
+      "signNumericId": 15974,
+      "translations": [
+        "y"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Y-/Y-A-15974.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "z",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=z",
+      "sourceId": "91b19f19aa111abd578ce1d62189da006bf37315",
+      "signRef": "Z",
+      "signNumericId": 15975,
+      "translations": [
+        "z"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/Z-/Z-A-15975.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ai",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ai",
+      "sourceId": "9a7049b3ea9e3bb2c8709a28c5f6db37e269d630",
+      "signRef": "AI",
+      "signNumericId": 22185,
+      "translations": [
+        "AI",
+        "kunstmatige intelligentie",
+        "artificiële intelligentie",
+        "artificial intelligence"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "kunstmatige intelligentie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=kunstmatige%20intelligentie",
+      "sourceId": "2a3db87ba4dd6b063835661d33a867a455f86056",
+      "signRef": "AI",
+      "signNumericId": 22185,
+      "translations": [
+        "AI",
+        "kunstmatige intelligentie",
+        "artificiële intelligentie",
+        "artificial intelligence"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "artificiële intelligentie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=artifici%C3%ABle%20intelligentie",
+      "sourceId": "a782690f6d5198c083a9f460e5d375193d01e895",
+      "signRef": "AI",
+      "signNumericId": 22185,
+      "translations": [
+        "AI",
+        "kunstmatige intelligentie",
+        "artificiële intelligentie",
+        "artificial intelligence"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "artificial intelligence",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=artificial%20intelligence",
+      "sourceId": "297d2d5d82d3d41c61b6c8da5eeb3cf8ffef3804",
+      "signRef": "AI",
+      "signNumericId": 22185,
+      "translations": [
+        "AI",
+        "kunstmatige intelligentie",
+        "artificiële intelligentie",
+        "artificial intelligence"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [
+        "Neologism"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AI/AI-A-22185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ei",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ei",
+      "sourceId": "f7eedc111b110456e5140d5888c7c3ea85089335",
+      "signRef": "EI",
+      "signNumericId": 3428,
+      "translations": [
+        "ei"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-A-3428.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ei",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ei",
+      "sourceId": "29e0c96c8a40d58a5febdcbb7979c02438c0be1a",
+      "signRef": "EI",
+      "signNumericId": 3429,
+      "translations": [
+        "ei"
+      ],
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-B-3429.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ei",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ei",
+      "sourceId": "b00e7a45cdcb11e3cb4cfae54f646573d6ed93dc",
+      "signRef": "EI",
+      "signNumericId": 3430,
+      "translations": [
+        "ei"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EI/EI-C-3430.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "europese unie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=europese%20unie",
+      "sourceId": "b52ae1fc692c78290cefc49c9f167c326ed69396",
+      "signRef": "EU",
+      "signNumericId": 3642,
+      "translations": [
+        "Europese Unie",
+        "EU"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "eu",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=eu",
+      "sourceId": "f6b0d86f191ff73fbeeefa06450348c13daec8e1",
+      "signRef": "EU",
+      "signNumericId": 3642,
+      "translations": [
+        "Europese Unie",
+        "EU"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EU-A-3642.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "europese unie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=europese%20unie",
+      "sourceId": "ef07b4d5b2c8a32838209901c3c857d93a430dab",
+      "signRef": "EUROPESE-UNIE",
+      "signNumericId": 22014,
+      "translations": [
+        "Europese Unie",
+        "EU"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EUROPESE-UNIE-A-22014.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "eu",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=eu",
+      "sourceId": "8a3ce5a49e946a5727196691732f7a60e8496e95",
+      "signRef": "EUROPESE-UNIE",
+      "signNumericId": 22014,
+      "translations": [
+        "Europese Unie",
+        "EU"
+      ],
+      "regions": [
+        "Unknown"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EU/EUROPESE-UNIE-A-22014.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "e7620962f93ecf6160deed6f8ad69457aee96d51",
+      "signRef": "AJUIN",
+      "signNumericId": 314,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "99d08d30643c20e25310d85c07ec19618a20c740",
+      "signRef": "AJUIN",
+      "signNumericId": 314,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-A-314.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "faa89b6cfced6d4bc0014e28f1ca82bc439bb5c4",
+      "signRef": "AJUIN",
+      "signNumericId": 316,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-C-316.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "3a9174a99c32b48710b2ae40c077e2b18aeb9d34",
+      "signRef": "AJUIN",
+      "signNumericId": 316,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-C-316.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "d7cf62731a63ba3fcc12fe88105627c6edb4030b",
+      "signRef": "AJUIN",
+      "signNumericId": 317,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-D-317.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "ee3ab2743a372136bc27f0901a9995439ee7c339",
+      "signRef": "AJUIN",
+      "signNumericId": 317,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-D-317.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "e86ca33d6107eb03b69fe508dd94f1854a39d733",
+      "signRef": "AJUIN",
+      "signNumericId": 318,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-E-318.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "e14922df66074384a819fd5ae9bc7aa37023be5d",
+      "signRef": "AJUIN",
+      "signNumericId": 318,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-E-318.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "9917ec71270a2b435c71601d0eb61716a28a6c12",
+      "signRef": "AJUIN",
+      "signNumericId": 319,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-F-319.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "4384ccb739b85658c29bd88da5281e3b8183a729",
+      "signRef": "AJUIN",
+      "signNumericId": 319,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-F-319.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "47050b4598fafe408a29a304161feca88280d695",
+      "signRef": "AJUIN",
+      "signNumericId": 320,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-G-320.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "efbd01c3de12e5406b82736d1e3f9f8e7ca736aa",
+      "signRef": "AJUIN",
+      "signNumericId": 320,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-G-320.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ui",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ui",
+      "sourceId": "3d63eb3c7884fef93f7d0a61fd3aecaccb5800e4",
+      "signRef": "AJUIN",
+      "signNumericId": 321,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-H-321.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ajuin",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ajuin",
+      "sourceId": "fe5775a326a70d6161af37ab0eaca16fe62cfef0",
+      "signRef": "AJUIN",
+      "signNumericId": 321,
+      "translations": [
+        "ui",
+        "ajuin"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/AJ/AJUIN-H-321.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ik",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ik",
+      "sourceId": "bc30be380e981cc1acc49418ef48d8ccb065b788",
+      "signRef": "WG-1",
+      "signNumericId": 5265,
+      "translations": [
+        "ik",
+        "ikzelf",
+        "ikke"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ikzelf",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ikzelf",
+      "sourceId": "18b9e11c1b432bc4839281d111f6a181401e3b6b",
+      "signRef": "WG-1",
+      "signNumericId": 5265,
+      "translations": [
+        "ik",
+        "ikzelf",
+        "ikke"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ikke",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ikke",
+      "sourceId": "874d4eea46fb1aa58551ea4be3ef0d31d3bf64fd",
+      "signRef": "WG-1",
+      "signNumericId": 5265,
+      "translations": [
+        "ik",
+        "ikzelf",
+        "ikke"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-1-5265.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wij",
+      "sourceId": "df03fb34dccb078689ee0c7439e4b1a4ddd7090c",
+      "signRef": "WG-4",
+      "signNumericId": 13947,
+      "translations": [
+        "wij",
+        "we",
+        "wg"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "we",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=we",
+      "sourceId": "e026044b8584d74d422e65416f59312fbcb9dc60",
+      "signRef": "WG-4",
+      "signNumericId": 13947,
+      "translations": [
+        "wij",
+        "we",
+        "wg"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wg",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wg",
+      "sourceId": "500a31c6f209fb9636b70ecf96b30c20414f6aab",
+      "signRef": "WG-4",
+      "signNumericId": 13947,
+      "translations": [
+        "wij",
+        "we",
+        "wg"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-4-A-13947.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "jullie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=jullie",
+      "sourceId": "69b8c071c7e68c3687ac7c85ba6c26b49583adcb",
+      "signRef": "WG-5",
+      "signNumericId": 5569,
+      "translations": [
+        "jullie"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-5-A-5569.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hij",
+      "sourceId": "57c6c8a372822eeb5ce25a1df094160f99528bd7",
+      "signRef": "WG-3",
+      "signNumericId": 4956,
+      "translations": [
+        "hij",
+        "zij"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zij",
+      "sourceId": "883f652d70c4f5c41d7dc68df73418a073f13e2a",
+      "signRef": "WG-3",
+      "signNumericId": 4956,
+      "translations": [
+        "hij",
+        "zij"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-A-4956.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hij",
+      "sourceId": "3c7c8d3e7643b0e61b01397f469b84e42acb78fb",
+      "signRef": "WG-3",
+      "signNumericId": 4955,
+      "translations": [
+        "hij",
+        "zij"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-B-4955.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zij",
+      "sourceId": "4bd3519dee1a45ecc99b0ef6cfe760982f6b3309",
+      "signRef": "WG-3",
+      "signNumericId": 4955,
+      "translations": [
+        "hij",
+        "zij"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-3-B-4955.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zij",
+      "sourceId": "d0e33bb1aebf2960f781688195fca50a647b420d",
+      "signRef": "WG-6",
+      "signNumericId": 14357,
+      "translations": [
+        "zij",
+        "ze"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-A-14357.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ze",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ze",
+      "sourceId": "946c5e09e32dacb6b990ab9cdb040bf7c074e15a",
+      "signRef": "WG-6",
+      "signNumericId": 14357,
+      "translations": [
+        "zij",
+        "ze"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-A-14357.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zij",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zij",
+      "sourceId": "7591a3ca09cecaa27b68284537dc8a81c4bfdfa1",
+      "signRef": "WG-6",
+      "signNumericId": 14356,
+      "translations": [
+        "zij",
+        "ze"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-B-14356.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ze",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ze",
+      "sourceId": "df70bc11c968edabee8b0229c92ddec86f5bf967",
+      "signRef": "WG-6",
+      "signNumericId": 14356,
+      "translations": [
+        "zij",
+        "ze"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WG/WG-6-B-14356.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "van hem",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20hem",
+      "sourceId": "e3af3ebc7ff4c62c834751c9639619639f31861c",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "van haar",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20haar",
+      "sourceId": "7219c337ba83b151024e16453f8358d1f1668b29",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "van iets",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=van%20iets",
+      "sourceId": "68497e87b917a777cff7670c6bbed5d20b769ed5",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zijn",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zijn",
+      "sourceId": "17a1bf35e98f5f3f02dcbaf8d995219f8c17c533",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "haar",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=haar",
+      "sourceId": "d0c1e882ff7cdfc78753bc5e2227cb22f18fbf83",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hun",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hun",
+      "sourceId": "3dd8a6467a5e9f1de4871cbb0c77155bb87ec66b",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "van",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=van",
+      "sourceId": "8b7ca696345466a7284459e813d8a82b827bfcf0",
+      "signRef": "VAN-3",
+      "signNumericId": 12517,
+      "translations": [
+        "van hem",
+        "van haar",
+        "van iets",
+        "zijn",
+        "haar",
+        "hun",
+        "van"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VAN-3-12517.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hebben",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hebben",
+      "sourceId": "8038e7762928c0277702fec3bdbe4c5b9b2b60d3",
+      "signRef": "HEBBEN",
+      "signNumericId": 4801,
+      "translations": [
+        "hebben",
+        "er is",
+        "er zijn",
+        "bestaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "er is",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=er%20is",
+      "sourceId": "ccb74af0613595e3c9c7a85be60ddcd1ed858a5a",
+      "signRef": "HEBBEN",
+      "signNumericId": 4801,
+      "translations": [
+        "hebben",
+        "er is",
+        "er zijn",
+        "bestaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "er zijn",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=er%20zijn",
+      "sourceId": "d6ea01907b8155291083ce3b2ec51adbafa531a5",
+      "signRef": "HEBBEN",
+      "signNumericId": 4801,
+      "translations": [
+        "hebben",
+        "er is",
+        "er zijn",
+        "bestaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "bestaan",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=bestaan",
+      "sourceId": "18f26d4baee5ef505e0a1b1d6253943087f2951f",
+      "signRef": "HEBBEN",
+      "signNumericId": 4801,
+      "translations": [
+        "hebben",
+        "er is",
+        "er zijn",
+        "bestaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HEBBEN-A-4801.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "660bcf591e1f594d4d99beda2b6a0f189c811814",
+      "signRef": "HELPEN",
+      "signNumericId": 4853,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "38fee760cf2f1d05ef19cdc7a368674cbb78f9af",
+      "signRef": "HELPEN",
+      "signNumericId": 4853,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "a997ba50712c7f0ecb4ce8e61f5e0aff7108a8ca",
+      "signRef": "HELPEN",
+      "signNumericId": 4853,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-A-4853.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "b1f062cec7b9e74e4ad99cfb0b27125d84b1c175",
+      "signRef": "HELPEN",
+      "signNumericId": 4854,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-B-4854.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "0cb7d4f35c5aabaeb1fb8a83c22f8475c51eb4d9",
+      "signRef": "HELPEN",
+      "signNumericId": 4854,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-B-4854.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "b62480a50d08dbfca5ebef98a969683454a7c2be",
+      "signRef": "HELPEN",
+      "signNumericId": 4854,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-B-4854.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "b8f420d54521f9de6ef71bcb88cce701c8911517",
+      "signRef": "HELPEN",
+      "signNumericId": 4855,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-C-4855.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "c9cea50c510eab8daa49e2e56c3ed366563a4685",
+      "signRef": "HELPEN",
+      "signNumericId": 4855,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-C-4855.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "05d67c606f0153452c146ce9bcea5af1e9ae65bf",
+      "signRef": "HELPEN",
+      "signNumericId": 4855,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-C-4855.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "901c5ad9b41bb8acf319f997ee4ff895531f576f",
+      "signRef": "HELPEN",
+      "signNumericId": 4857,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-E-4857.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "edd3988aab0eab26795ac9acf20918c9d8da67fd",
+      "signRef": "HELPEN",
+      "signNumericId": 4857,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-E-4857.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "de3c5d0608e179e3e908acee4e7d5496ae06a72f",
+      "signRef": "HELPEN",
+      "signNumericId": 4857,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [
+        "Outdated"
+      ],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-E-4857.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "5764f39b9c8396bfc3d0efd27078bb71e017f7ef",
+      "signRef": "HELPEN",
+      "signNumericId": 4858,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-F-4858.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "156e6a7eab1abb855dc7922f3f9e778b694b4827",
+      "signRef": "HELPEN",
+      "signNumericId": 4858,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-F-4858.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "3d621887cf3e246eeeca91cc62a81fa953aa5abd",
+      "signRef": "HELPEN",
+      "signNumericId": 4858,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-F-4858.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "help",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=help",
+      "sourceId": "d0d4da681ad201e800b8293af353ecb6b0467bad",
+      "signRef": "HELPEN",
+      "signNumericId": 4859,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-G-4859.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hulp",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hulp",
+      "sourceId": "9a6873ca1026c2c3e20e40fd96393d501ea033c9",
+      "signRef": "HELPEN",
+      "signNumericId": 4859,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-G-4859.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "helpen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=helpen",
+      "sourceId": "d069be73ceb816b7c084635cd628448c04f6d4b6",
+      "signRef": "HELPEN",
+      "signNumericId": 4859,
+      "translations": [
+        "help",
+        "hulp",
+        "helpen"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HE/HELPEN-G-4859.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "doen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=doen",
+      "sourceId": "21941b7881f5a1a2255d35ae5b38bca495b7f0ad",
+      "signRef": "DOEN",
+      "signNumericId": 3030,
+      "translations": [
+        "doen",
+        "handelen",
+        "handeling"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "handelen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=handelen",
+      "sourceId": "ef04548537d62c2e4266a42670102d5a28532b1a",
+      "signRef": "DOEN",
+      "signNumericId": 3030,
+      "translations": [
+        "doen",
+        "handelen",
+        "handeling"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "handeling",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=handeling",
+      "sourceId": "be02216192b8b515ea75d8f564636d8f3bdbd699",
+      "signRef": "DOEN",
+      "signNumericId": 3030,
+      "translations": [
+        "doen",
+        "handelen",
+        "handeling"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-A-3030.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "doen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=doen",
+      "sourceId": "40c70e9fe3987b7c114f359e3512c85406dc4ae5",
+      "signRef": "DOEN",
+      "signNumericId": 14882,
+      "translations": [
+        "doen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-D-14882.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "doen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=doen",
+      "sourceId": "5a90f2449c7ed735fe12e4c3dab76845bcb895e5",
+      "signRef": "DOEN",
+      "signNumericId": 14883,
+      "translations": [
+        "doen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DO/DOEN-E-14883.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "stappen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=stappen",
+      "sourceId": "5b6b2422fe43107ab451ab7553fb311c1775354c",
+      "signRef": "STAPPEN",
+      "signNumericId": 11383,
+      "translations": [
+        "stappen",
+        "gaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gaan",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gaan",
+      "sourceId": "27a655cf3450e4ab9c3e3f431b68227d7fd83851",
+      "signRef": "STAPPEN",
+      "signNumericId": 11383,
+      "translations": [
+        "stappen",
+        "gaan"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ST/STAPPEN-A-11383.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "komen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=komen",
+      "sourceId": "d80d741736ce98d798068584cf0612765328f6f7",
+      "signRef": "KOMEN",
+      "signNumericId": 6205,
+      "translations": [
+        "komen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/KO/KOMEN-A-6205.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "eten",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=eten",
+      "sourceId": "621c8fc9a5aff56050614fc9730528c182b75acd",
+      "signRef": "ETEN",
+      "signNumericId": 3634,
+      "translations": [
+        "eten"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ET/ETEN-A-3634.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "drank",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=drank",
+      "sourceId": "4f0bbdb9746f2c04102d9c1a7da11d8e3feb7a5e",
+      "signRef": "DRINKEN",
+      "signNumericId": 3160,
+      "translations": [
+        "drank",
+        "drinken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "drinken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=drinken",
+      "sourceId": "8b5d8b5312ac19d5e9c0101470037b8df149af35",
+      "signRef": "DRINKEN",
+      "signNumericId": 3160,
+      "translations": [
+        "drank",
+        "drinken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/DR/DRINKEN-A-3160.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "drinken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=drinken",
+      "sourceId": "cbab9897128d9ac62f2df0afb119e9799b3f1c45",
+      "signRef": "ZUIPEN",
+      "signNumericId": 14501,
+      "translations": [
+        "drinken",
+        "zuipen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-B-14501.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zuipen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zuipen",
+      "sourceId": "ece66a43750f0235ee171bf120ac8f2edcdbd639",
+      "signRef": "ZUIPEN",
+      "signNumericId": 14501,
+      "translations": [
+        "drinken",
+        "zuipen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-B-14501.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "drinken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=drinken",
+      "sourceId": "e76d3432686fd99ae18e1751dad05a9b323bf27f",
+      "signRef": "ZUIPEN",
+      "signNumericId": 3185,
+      "translations": [
+        "drinken",
+        "zuipen"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-C-3185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "zuipen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=zuipen",
+      "sourceId": "b8867ec3817e5fff11297760c854cc320459e140",
+      "signRef": "ZUIPEN",
+      "signNumericId": 3185,
+      "translations": [
+        "drinken",
+        "zuipen"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/ZU/ZUIPEN-C-3185.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "sourceId": "fb33b183606cc0614d371ef060c67ae96cf45a27",
+      "signRef": "WERKEN",
+      "signNumericId": 13856,
+      "translations": [
+        "werken"
+      ],
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-A-13856.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "sourceId": "39b3cf73135d89d8865d4aeb3ab34fc5f171fc98",
+      "signRef": "WERKEN",
+      "signNumericId": 13857,
+      "translations": [
+        "werken",
+        "werk"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-B-13857.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werk",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werk",
+      "sourceId": "44e948dcdd3c11e7406d1ebb15f0b0c630395323",
+      "signRef": "WERKEN",
+      "signNumericId": 13857,
+      "translations": [
+        "werken",
+        "werk"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-B-13857.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "sourceId": "efba83a198db4c34d50c54f063a268b86d11e3b4",
+      "signRef": "WERKEN",
+      "signNumericId": 13858,
+      "translations": [
+        "werken"
+      ],
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-C-13858.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "sourceId": "4c35be8834ee51a25279f8e3bbe8ca6a79e44746",
+      "signRef": "WERKEN",
+      "signNumericId": 13859,
+      "translations": [
+        "werken"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-D-13859.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "werken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=werken",
+      "sourceId": "7fda8d3e846c4e83783b07017ad177135cfa4d2e",
+      "signRef": "WERKEN",
+      "signNumericId": 13860,
+      "translations": [
+        "werken"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WE/WERKEN-E-13860.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "school",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=school",
+      "sourceId": "66479c39ce551f51f7ca0c0556a5c3fe23f23a8d",
+      "signRef": "SCHOOL",
+      "signNumericId": 10547,
+      "translations": [
+        "school"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-A-10547.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "school",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=school",
+      "sourceId": "ed28295afbf28a662cdd28df11cf0041331a68d6",
+      "signRef": "SCHOOL",
+      "signNumericId": 10548,
+      "translations": [
+        "school"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-B-10548.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "school",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=school",
+      "sourceId": "c54249e29bc7987fe9850a0f0fe9a1bf72c25ee8",
+      "signRef": "SCHOOL",
+      "signNumericId": 10549,
+      "translations": [
+        "school"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SC/SCHOOL-C-10549.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "huis",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=huis",
+      "sourceId": "8771049232c52cff4f386654b3d73f20901fd6af",
+      "signRef": "HUIS",
+      "signNumericId": 5167,
+      "translations": [
+        "huis"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HU/HUIS-A-5167.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "huis",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=huis",
+      "sourceId": "5818dfc5e8baa63deb99097a2802216a428d17ae",
+      "signRef": "HUIS",
+      "signNumericId": 5168,
+      "translations": [
+        "huis"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HU/HUIS-B-5168.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "vandaag",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=vandaag",
+      "sourceId": "c4ddac129e3d523422e4a69749c321af758b05fa",
+      "signRef": "VANDAAG",
+      "signNumericId": 12534,
+      "translations": [
+        "vandaag"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VANDAAG-A-12534.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "vandaag",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=vandaag",
+      "sourceId": "b89ca8f6abbf48000a275a75799fcd19dbcb9031",
+      "signRef": "VANDAAG",
+      "signNumericId": 12535,
+      "translations": [
+        "vandaag"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/VA/VANDAAG-B-12535.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "morgen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=morgen",
+      "sourceId": "9d6343d72ad1363ee72c3d8e651de280899135ea",
+      "signRef": "MORGEN",
+      "signNumericId": 7755,
+      "translations": [
+        "morgen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-A-7755.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "morgen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=morgen",
+      "sourceId": "f13d0f11dc59fec3598ab52756809060aecc5842",
+      "signRef": "MORGEN",
+      "signNumericId": 7756,
+      "translations": [
+        "morgen"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-B-7756.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "morgen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=morgen",
+      "sourceId": "c5d306627c76a3ce5ea00d87629c1451d7d9cf28",
+      "signRef": "MORGEN",
+      "signNumericId": 7757,
+      "translations": [
+        "morgen"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/MO/MORGEN-C-7757.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gister",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gister",
+      "sourceId": "3ec0e062aae1ba70171648c9f3e4bcbcf9a1f0a1",
+      "signRef": "GISTEREN",
+      "signNumericId": 4363,
+      "translations": [
+        "gister",
+        "gisteren"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gisteren",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gisteren",
+      "sourceId": "00fbf8503fcd5205e4282732e5b3d396e453668f",
+      "signRef": "GISTEREN",
+      "signNumericId": 4363,
+      "translations": [
+        "gister",
+        "gisteren"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-A-4363.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gister",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gister",
+      "sourceId": "0a080b5226fec5f484fb39bf7da6c472852bc266",
+      "signRef": "GISTEREN",
+      "signNumericId": 4364,
+      "translations": [
+        "gister",
+        "gisteren"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-B-4364.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "gisteren",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=gisteren",
+      "sourceId": "87c1a191547eb11800bb5090ccbdf54a7b0cd7f7",
+      "signRef": "GISTEREN",
+      "signNumericId": 4364,
+      "translations": [
+        "gister",
+        "gisteren"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GI/GISTEREN-B-4364.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "bedankt",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=bedankt",
+      "sourceId": "41c73fcfc4799c08fc1e09f36eb7d69d5a2949e7",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "danku",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=danku",
+      "sourceId": "741554abe6f611370e134a3fb1c086019433794d",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "dankuwel",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankuwel",
+      "sourceId": "6bd356d50e58bcb93e96919d46a02ef6b39d52ba",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "dank",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=dank",
+      "sourceId": "a5a5f6d6848379a22a2224552067616e029751a1",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "dankje",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankje",
+      "sourceId": "d8e34e3e7313c3f6a4fefdc166dae4a117b1697b",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "dankjewel",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=dankjewel",
+      "sourceId": "2c61d2397b333fe80801aa9b467f9d9e50c3c891",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "danken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=danken",
+      "sourceId": "febd147b8a2d301af9ad6c0b4bf2d3d66e3f398c",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "merci",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=merci",
+      "sourceId": "1fa2476b281a8d0e0e2c79a007c8075960efb29e",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "thx",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=thx",
+      "sourceId": "6dafadaea507a11211d5aebf0ebf07a3064d6d73",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "bedanken",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=bedanken",
+      "sourceId": "66f84b60a0a6ce29982fde4a8956558bfae75cca",
+      "signRef": "BEDANKEN",
+      "signNumericId": 1036,
+      "translations": [
+        "bedankt",
+        "danku",
+        "dankuwel",
+        "dank",
+        "dankje",
+        "dankjewel",
+        "danken",
+        "merci",
+        "thx",
+        "bedanken"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/BE/BEDANKEN-A-1036.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hallo",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hallo",
+      "sourceId": "87224448daf1b00a3f20bfbb3b74dcb3ab513175",
+      "signRef": "HALLO",
+      "signNumericId": 16601,
+      "translations": [
+        "hallo"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HA/HALLO-A-16601.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "sorry",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=sorry",
+      "sourceId": "aa52b90a4fd653faa9bbbaab8e98d70b00774dc2",
+      "signRef": "SORRY",
+      "signNumericId": 11113,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "pardon",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=pardon",
+      "sourceId": "f534f583f23507a1e62c86315bcd9022d93d5efb",
+      "signRef": "SORRY",
+      "signNumericId": 11113,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "excuseer",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=excuseer",
+      "sourceId": "cc03da9d4c0f1f4d434d31e1fac28c4bdefb2ff7",
+      "signRef": "SORRY",
+      "signNumericId": 11113,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-A-11113.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "sorry",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=sorry",
+      "sourceId": "7538da66cb7fbacdb649e1a89cc06b8766d27e47",
+      "signRef": "SORRY",
+      "signNumericId": 11115,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-C-11115.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "pardon",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=pardon",
+      "sourceId": "4c31ce17afbbccd69662a7541cc959bc12e4c295",
+      "signRef": "SORRY",
+      "signNumericId": 11115,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-C-11115.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "excuseer",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=excuseer",
+      "sourceId": "e711727b89013fc5b30d0533180145738142e680",
+      "signRef": "SORRY",
+      "signNumericId": 11115,
+      "translations": [
+        "sorry",
+        "pardon",
+        "excuseer"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SO/SORRY-C-11115.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "goed",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=goed",
+      "sourceId": "34c18d4ea190b0ea887e8e463feca6363723926a",
+      "signRef": "GOED",
+      "signNumericId": 4411,
+      "translations": [
+        "goed"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-A-4411.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "goed",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=goed",
+      "sourceId": "182233b892b54e737b92248f0c2c746808b0e86b",
+      "signRef": "GOED",
+      "signNumericId": 4412,
+      "translations": [
+        "goed"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-B-4412.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "goed",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=goed",
+      "sourceId": "1933ece15b1af515c4e642ce44c4feda53fb7fdc",
+      "signRef": "GOED",
+      "signNumericId": 4413,
+      "translations": [
+        "goed"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-C-4413.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "goed",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=goed",
+      "sourceId": "86cf4b2a69182ddbc359af3ce8e34621bd4122d7",
+      "signRef": "GOED",
+      "signNumericId": 4414,
+      "translations": [
+        "goed"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/GO/GOED-D-4414.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "slecht",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=slecht",
+      "sourceId": "9c6dd5c81a255a1a3dc2654532a4f2d4dee380c3",
+      "signRef": "SLECHT",
+      "signNumericId": 10925,
+      "translations": [
+        "slecht"
+      ],
+      "regions": [
+        "West-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-A-10925.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "slecht",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=slecht",
+      "sourceId": "7538d89f89c904b5c92f1bf689805ed9e54291b6",
+      "signRef": "SLECHT",
+      "signNumericId": 10927,
+      "translations": [
+        "slecht"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-C-10927.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "slecht",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=slecht",
+      "sourceId": "51adad0de8fdff549963144a7c763e614e8f59ec",
+      "signRef": "SLECHT",
+      "signNumericId": 10928,
+      "translations": [
+        "slecht"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-D-10928.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "niet lekker",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=niet%20lekker",
+      "sourceId": "b0c936941c7e1b2a0e941c9580510005c23e6370",
+      "signRef": "SLECHT-VOEDSEL",
+      "signNumericId": 10926,
+      "translations": [
+        "niet lekker",
+        "vies",
+        "vuil",
+        "slecht"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "vies",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=vies",
+      "sourceId": "c8b146a2f6c591afd9464b5fe153095d539b51c0",
+      "signRef": "SLECHT-VOEDSEL",
+      "signNumericId": 10926,
+      "translations": [
+        "niet lekker",
+        "vies",
+        "vuil",
+        "slecht"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "vuil",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=vuil",
+      "sourceId": "3bca57923fa60bb12180cd0e2a9b9aab57714442",
+      "signRef": "SLECHT-VOEDSEL",
+      "signNumericId": 10926,
+      "translations": [
+        "niet lekker",
+        "vies",
+        "vuil",
+        "slecht"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "slecht",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=slecht",
+      "sourceId": "75f62d5593a83d1ab42de8e64d2a18ba02e14bd3",
+      "signRef": "SLECHT-VOEDSEL",
+      "signNumericId": 10926,
+      "translations": [
+        "niet lekker",
+        "vies",
+        "vuil",
+        "slecht"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/SL/SLECHT-VOEDSEL-F-10926.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ja",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ja",
+      "sourceId": "1c4e506851d0219baf3582bd9e4a6f52a5973524",
+      "signRef": "JA",
+      "signNumericId": 5464,
+      "translations": [
+        "ja"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/JA/JA-A-5464.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "ja",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=ja",
+      "sourceId": "9dfcebe648ee9fa5ae8b63f42b929ee9198be81b",
+      "signRef": "JA",
+      "signNumericId": 17274,
+      "translations": [
+        "ja"
+      ],
+      "regions": [
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/JA/JA-B-17274.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "nee",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=nee",
+      "sourceId": "3ba1039f226c30ec69786209576900a70ae287e1",
+      "signRef": "NEE",
+      "signNumericId": 15049,
+      "translations": [
+        "nee",
+        "neen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "neen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=neen",
+      "sourceId": "a0b6551fe2c518870a610064f40cdbef28b0d879",
+      "signRef": "NEE",
+      "signNumericId": 15049,
+      "translations": [
+        "nee",
+        "neen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-A-15049.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "nee",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=nee",
+      "sourceId": "b576e52e1b0076a5b3b290d0881206814c958aac",
+      "signRef": "NEE",
+      "signNumericId": 14831,
+      "translations": [
+        "nee",
+        "neen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-C-14831.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "neen",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=neen",
+      "sourceId": "2e073b614747d118fceef18b87d577e008d681d6",
+      "signRef": "NEE",
+      "signNumericId": 14831,
+      "translations": [
+        "nee",
+        "neen"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/NE/NEE-C-14831.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waarom",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "sourceId": "4201ee2df33855647b76949ccd0b91aef85ae2c0",
+      "signRef": "WAAROM",
+      "signNumericId": 13564,
+      "translations": [
+        "waarom"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-A-13564.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waarom",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "sourceId": "a486dbbd7507c7ad19799ef85e2caedef190a120",
+      "signRef": "WAAROM",
+      "signNumericId": 13566,
+      "translations": [
+        "waarom"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-C-13566.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waarom",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "sourceId": "4493f95b5ea1290dae377b5a58ab3f4e21bec085",
+      "signRef": "WAAROM",
+      "signNumericId": 13567,
+      "translations": [
+        "waarom"
+      ],
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-D-13567.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waarom",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "sourceId": "07e4603280db525dadc3f38648cae36474ed9522",
+      "signRef": "WAAROM",
+      "signNumericId": 13569,
+      "translations": [
+        "waarom"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-F-13569.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waarom",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waarom",
+      "sourceId": "25473c5329d26d4aca770f5283934de0d0bf1d49",
+      "signRef": "WAAROM",
+      "signNumericId": 13570,
+      "translations": [
+        "waarom"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAROM-G-13570.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "8c9eb672aac8c10c59ff6e0285c0addb2ade8a1b",
+      "signRef": "HOE",
+      "signNumericId": 4966,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-A-4966.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "9a2143ab28cd20e3fdcfe77a0537f17de89b1b57",
+      "signRef": "HOE",
+      "signNumericId": 4967,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-B-4967.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "ed7fc21104c34285180031bde98983fcea1725ef",
+      "signRef": "HOE",
+      "signNumericId": 4968,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-C-4968.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "59abdbfab40496caced955839d09297c3730f9f9",
+      "signRef": "HOE",
+      "signNumericId": 4969,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "West-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-D-4969.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "9b08ee111b3208f140ca637909990d7e19359c3a",
+      "signRef": "HOE",
+      "signNumericId": 4970,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-E-4970.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "d0d7c85933b1396bcded7d5d8177427c2ac7e6ed",
+      "signRef": "HOE",
+      "signNumericId": 4971,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-F-4971.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "hoe",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=hoe",
+      "sourceId": "f0bf00ddb84528f777500aa128c7413964b1edb0",
+      "signRef": "HOE",
+      "signNumericId": 4972,
+      "translations": [
+        "hoe"
+      ],
+      "regions": [
+        "Oost-Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/HO/HOE-G-4972.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wat",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wat",
+      "sourceId": "2fb2b3b72aacd9f9bfbd7fbe0e20022913fa8c78",
+      "signRef": "WAT",
+      "signNumericId": 13657,
+      "translations": [
+        "wat"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAT-A-13657.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wat",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wat",
+      "sourceId": "22bdd277a0f537ff603124414fe30d5faef1ab24",
+      "signRef": "WAT",
+      "signNumericId": 13658,
+      "translations": [
+        "wat"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAT-B-13658.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "sourceId": "36ea518557813e859e733b91c8eda339a284cee0",
+      "signRef": "WIE",
+      "signNumericId": 13919,
+      "translations": [
+        "wie"
+      ],
+      "regions": [
+        "West-Vlaanderen",
+        "Oost-Vlaanderen",
+        "Antwerpen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-A-13919.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "sourceId": "584bf3572f836f137bed2d0f954e06d677095ed3",
+      "signRef": "WIE",
+      "signNumericId": 13920,
+      "translations": [
+        "wie"
+      ],
+      "regions": [
+        "Oost-Vlaanderen",
+        "Antwerpen",
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-B-13920.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "sourceId": "82ff4f70d8d55c1b625fa42e7f7d8f971bbded4e",
+      "signRef": "WIE",
+      "signNumericId": 13921,
+      "translations": [
+        "wie"
+      ],
+      "regions": [
+        "Limburg"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-C-13921.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "sourceId": "467bb17f5fdc6ecbc8f1772d8b707fa0d72263fd",
+      "signRef": "WIE",
+      "signNumericId": 13922,
+      "translations": [
+        "wie"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-D-13922.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "wie",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=wie",
+      "sourceId": "c8ffd6387bc0af726cc5e66088690dcbea061135",
+      "signRef": "WIE",
+      "signNumericId": 13923,
+      "translations": [
+        "wie"
+      ],
+      "regions": [
+        "Vlaams-Brabant"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WI/WIE-E-13923.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waar",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waar",
+      "sourceId": "055a8855ed8d3c7b930003e7fe201323586e54f5",
+      "signRef": "WAAR",
+      "signNumericId": 13557,
+      "translations": [
+        "waar"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": false,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/WA/WAAR-A-13557.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "echt",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=echt",
+      "sourceId": "4f89a999df91862008fc3b065414fbe5fce66bfe",
+      "signRef": "ECHT",
+      "signNumericId": 3352,
+      "translations": [
+        "echt",
+        "waar"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EC/ECHT-A-3352.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    },
+    {
+      "token": "waar",
+      "sourceUrl": "https://woordenboek.vlaamsegebarentaal.be/search?q=waar",
+      "sourceId": "74e97ff192d597f2737536ce8f968eb7c77b91f8",
+      "signRef": "ECHT",
+      "signNumericId": 3352,
+      "translations": [
+        "echt",
+        "waar"
+      ],
+      "regions": [
+        "Vlaanderen"
+      ],
+      "labels": [],
+      "hasEtymology": true,
+      "media": [
+        {
+          "url": "https://vlaamsegebarentaal.be/signbank/dictionary/protected_media/glossvideo/EC/ECHT-A-3352.mp4",
+          "from": "api.signs.video"
+        }
+      ]
+    }
+  ]
+}
